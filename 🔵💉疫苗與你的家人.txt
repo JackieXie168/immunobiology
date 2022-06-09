@@ -1,0 +1,21 @@
+🔵💉疫苗與你的家人
+wleemc  Jul 03 Sat 2021
+
+疫苗的真正作用不是產生抗體，而是在幫助新生兒及幼童的T cell辨識致病細菌及病毒的抗原為Non-self。成人的T cell對Self與Non-self antigen已經決定，很難用疫苗來改變。天生沒有T cell能辨識SARS-CoV2為外來抗原的人，不能一輩子靠打mRNA疫苗來對抗新冠病毒，總有一天會打出問題。下面的影片真的值得每一個家庭好好思考到底要打多少次疫苗。
+
+12歲女孩接種疫苗後⋯⋯家長哭訴要讓人們了解疫苗帶來的傷害！
+https://youtu.be/jqK4fjMPIhI
+
+要改變大家對疫苗的觀念很難，政客希望大家打疫苗產生抗體來壓制疫情，但從沙克(Inactivated virus)與沙賓(Live attenuated virus)疫苗半世紀的觀察可知，沙賓的活病毒可讓幼童產生較高的抗體，但抗體不會一直以高效價存在幼童體內。當科學家了解T cell immunity的重要性之後，發現安全性較高的沙克死病毒疫苗較好，因為抗體是暫時的，幼童接種死病毒後，T cell發育過程中能辨識病毒為Non-self才是一輩子的免疫。
+
+三級警戒實施一週後，有一天晚上內人碰一下11歲小女兒的手說，你發燒了，體溫計一量，真的38.6度。內人很緊張，但他已知道我會給女兒吃甚麼藥。在我不知道Nexium + Erythromycin有抗病毒療效時，內人一有感冒我就很頭大，因為不知道要給她吃甚麼藥。感冒藥都沒效，我常被罵得很慘，尤其咳嗽拖兩三個禮拜沒好，我每天都會被罵沒用。Nexium + Erythromycin改變了一切，我不再擔心她感冒吃藥沒效。
+
+我拿出Nexium與Erythromycin，用一半的劑量給小女兒吃，兩天後就沒燒了。一週後換14歲的大女兒發燒，也是超過38度，她吃兩次藥就沒燒了。
+
+Nexium + Erythromycin的想法來自治療幽門桿菌的第一線用藥(PPI + Amoxicillin + Clarithromycin)，Clarithromycin是Erythromycin的衍生物，同屬Macrolide antibiotic。很多來自對病人的觀察讓我懷疑Nexium + Clarithromycin有抗病毒的療效，於是我把Clarithromycin換成便宜的Erythromycin，當病人吃遍所有的藥、做過所有檢查都找不出病因，包括呼吸系統的慢性咳嗽(Mycoplasmae pneumoniae IgG/IgM 陰性)、咽喉異物感半年以上不好、口腔慢性潰瘍疑似疱疹病毒感染、年輕人長期腹脹/吃了就拉/食慾不振/體重減輕(疑似病毒引起的慢性腸炎)，當沒藥可開時，我開Nexium + Erythromycin，病人的反應每每讓我驚訝不已。我一直無法用檢驗數據來證實這藥的療效，直到這個病例出現時：
+https://wleemc.pixnet.net/blog/post/121071408
+花了一些功夫，從這病人的血漿抽取可疑的病毒RNA，用Random primer做RT-PCR，意外合成一段10-20 Kb的DNA。
+
+https://reurl.cc/6aq2ZO
+  
+用Random primer做RT-PCR，原本預期會做出一個Smear(如括弧)，某次PCR意外做出一段大於10 Kb的DNA(箭頭)。我們準備做DNA cloning然後定序看這病人到底感染甚麼病毒。
