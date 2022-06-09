@@ -1,0 +1,20 @@
+🔴🇺🇸🇬🇧🇩🇪🇯🇵🔥👻🧠♿🤢🐢🐛🐸💉成人打疫苗會破壞免疫平衡	
+Sep 27 Mon 2021	
+	
+打疫苗後抗體濃度越高越好，是嗎？ 這是錯誤的觀念！其實人類的Natural antibody中，有多種對抗新冠病毒的抗體，維持在極低的濃度即可中和病毒，自然情況下如果這樣的多種低濃度抗體被病毒突破，才需要產生額外的抗體阻撓病毒快速擴散，以利CTL發現病毒，並把病毒入侵的訊息經由Dendritic cell傳遞至局部淋巴組織，活化Th cell。這些額外產生的的抗體會受到T cell及B cell調控，機轉迄今仍不清楚，但在1974年，Niels Jerne 與 Geoffrey W. Hoffmann兩人提出Immune network theory，觀念如下圖：
+
+當外來抗原(Ag)入侵，突破Natural antibody的防線，B cell-IgM抓住抗原後，會活化分裂產生抗體(Antibody i, Abi)。為防止Autoantibody產生，人體的Natural antibody中有自體抗原的Internal image antibody i+1 (Abi+1)，這種Internal image抗體原本就存在人體中。另外有Antibody i+2 (Abi+2)伴隨Abi一起產生出來(抑制Abi)；Abx則伴隨Abi+2一起產生出來(抑制Abi+2)。如果Abi是Autoantibody，會被Internal image Abi+1發現，Abi+2就會抑制Abi。如果Abi不是Autoantibody，Abi+2就會被Abx抑制。
+
+不管打甚麼疫苗都會有兩種常見的副作用，即面神經麻痺及Guillain-Barre syndrome，機轉是Autoantibody對抗神經膠細胞的Ganglioside，這種Autoantibody(Abi)原本被Abi+2抑制。打疫苗會破壞原有的抗體平衡，使Abi+2少了，Autoantibody便浮現出來攻擊自己的細胞。Immune network theory在臨床上已得到證實，Guillain-Barre syndrome可用正常人的Natural antibody(IVIG--Intravenous immunoglobulin)治療，因為IVIG含有病人抗體平衡所需的Abi+2。面神經麻痺及Guillain-Barre syndrome是有症狀才知道有Autoantibody出現，嚴重的Guillain-Barre syndrome可能終身需要依賴呼吸器，因為支配呼吸肌的神經無法恢復正常傳導功能。打疫苗可能破壞其它抗體的平衡，導致某種Autoantibody浮現出來，破壞某器官的某種細胞，如Islet b-cell被破壞引發第一型糖尿病，必須終身施打胰島素。
+
+有人問版主，為何18歲以後，能不打疫苗就不要打疫苗？ 打疫苗是把外來抗原硬生生打進人體，外來抗原會進入全身淋巴結及脾臟產生免疫反應，此時免疫系統會暫時失去平衡狀態。免疫系統若要重新恢復平衡，需要Treg cell調節，18歲以後，T cell已分化完成，不會再由T cell receptor的基因重組產生新的T cell clone，如果打疫苗造成免疫失衡，現有的T cell無法分化成特殊的Treg cell調節免疫反應(機轉不明)： 1. 使產生Autoantibody(molecular mimicry)的B cell走向凋亡(Apoptosis)  2. 抑制Autoimmune CTL attack (molecular mimicry)  3. 抑制Autoimmune CD4+ T cell activity (molecular mimicry)  上面1.2.3.其中之一發生，會引發免疫失衡，若無法自行復原，自體免疫反應就會長期攻擊自體細胞，可能長達一輩子(例如造成結締組織的疾病、多發性硬化症等)；或是攻擊某器官的細胞，直到該器官的功能喪失(例如第一型糖尿病、腎衰竭、神經退化性疾病等)。此外，打疫苗引發的免疫失衡(暫時或永久)，可能使人體呼吸道或消化道的上皮細胞黏膜層更容易被外來抗原攻破。小孩接種流感疫苗會增加其它呼吸道病毒感染的機率，美國軍人接種流感疫苗，可預防Influenza virus、Respiratory syncytial virus、Parainfluenza virus感染，但卻會增加Coronavirus及Metapneumovirus感染。
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3404712/ 
+
+https://pubmed.ncbi.nlm.nih.gov/31607599/
+
+大多數的成人，如果不打疫苗，一輩子都不會讓外來抗原進入全身淋巴結(頭頸、胸、腹、骨盆、四肢)及脾臟。若有感染，頂多只是讓外來抗原進入呼吸道及胃腸黏膜局部淋巴組織(Mucosa-associated lymphoid tissue)。再嚴重一點的感染，如闌尾炎破掉，細菌抗原會在腹腔內的淋巴結被攔截，免疫反應不會擴及全身，因此產生自體免疫反應的機率很低。  
+
+18歲以下的人打疫苗或遭感染，造成免疫失衡，因為T cell receptor基因重組還沒被上帝鎖住，可藉T cell receptor基因重組產生新的Treg clone來平衡免疫系統。但新冠疫苗有問題，因為Native spike protein在成人引發太多死亡及Post-vaccination syndrome，貿然讓小孩注射以Native spike protein為抗原的疫苗(BNT、Moderna、AZ、高端)，可能造成終身遺憾。版主建議先等等看，看疫苗在其他小孩發生甚麼問題再考慮是否要把自己的小孩推進疫苗試驗場。  
+
+昨天看見一則悲慘的新聞，大家看了斟酌一下是否要去打疫苗。在台灣，Post-vaccination syndrome 比 Long COVID-19 syndrome多100倍，更多人沒有症狀，但疫苗的Autoimmune attack正緩慢且持續攻擊你的細胞。 https://www.chinatimes.com/realtimenews/20210924005693-260405?chdtv   
