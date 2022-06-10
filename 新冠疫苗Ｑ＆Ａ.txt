@@ -56,6 +56,86 @@ https://youtu.be/o_nKoybyMGg
 
 ───────────────
 
+訪客 於 2014/07/31 17:26
+
+重點應該不是在早用晚用吧 或者盡早用
+這容易使讀者誤解
+應該是醫生臨床判斷甚麼時候該用?
+如果臨床醫師判斷需要使用,自然沒有早晚的問題
+當用則用
+甚麼時候該用或不該用anti
+個人認為醫務所醫官經驗較資淺,可用資源有限
+要苛責他們也實在是太over
+較適切的做法應視病情嚴重者即時轉診到802
+有CXR LAB輔助,要MISS診斷PNEUMONIA相對不會發生
+不是每個發生咳嗽都是PNEUMONIA
+也不是每個都要用ANTI
+最後
+ANTI不是萬靈丹,更不是退燒藥
+
+─────────────
+
+版主已把美軍的Guideline附上了, 再貼一次: 
+http://www.med.navy.mil/directives/ExternalDirectives/6220.8B.pdf
+
+MTF (medical treatment facilities) commanders, commanding officers, and officers in charge supporting recruit and other training centers will routinely administer antibiotic prophylaxis to all recruits upon arrival and as indicated; and shall communicate prophylaxis status to commanding officers of RTC (Recruit Training Command) and the MCRDs (Marine Corps Recruit Depots) on a regular basis. 
+(1) Year round primary prophylaxis regimen:
+All recruits, not allergic to penicillin, will receive benzathine penicillin G. 
+(2) Alternate prophylaxis regimens include:
+(a) Oral azithromycin, 1 gram weekly for 4 weeks.
+(b) Oral penicillin VK, 250 milligrams twice daily for 4 weeks.
+(c) Oral erythromycin, 250 milligrams twice daily for 4 weeks.
+人家是沒等你發燒, 新兵入伍報到就用抗生素了. 軍事訓練講求速效, 就怕一個感染, 整個營區都遭殃, 讓訓練停擺. 事情沒發生之前, 大家都以為絕不會有事, 等到發生了才驚覺問題怎會嚴重到人病死了. 美軍一定有切膚之痛才會事先使用抗生素預防. 
+wleemc 於 2014/07/31 18:11 回覆
+
+───────────────
+
+訪客 於 2015/01/25 00:15
+
+"小孩與老人感冒只要有發燒，我的看法是一律使用抗生素"
+本版上有許多學弟在觀看
+請版主謹慎用字遣詞
+今日若病人診斷已確診dengue fever ,influenza
+請問是不是一體適用抗生素?????
+隨便去問一個北榮的INF ,Chest man ,您上述這句話是否會得到認同?
+
+─────────────
+
+不認同沒關係, 經驗告訴我, 若不這麼用, 恐怕會對不起病人。我不希望病人因遲用抗生素而死亡或發生嚴重的後遺症. 
+真實的案例, 一個國中生畢業旅行時感冒, 雖然有去診所看病, 但醫師只當感冒醫, 喉痛發燒沒及時用抗生素, 病好之後約三個月出現蛋白尿, 後來逐漸惡化, 二十幾歲就洗腎。原來當初是鏈球菌的扁桃腺炎, 不是感冒, 最後導致PSGN (Post-streptococcal glomerulonephritis).
+
+老人或小孩, 流感若發高燒, 請適時使用抗生素, 上文的敗血症是原因之一, 另一個因素是人體靠IFN-alpha/beta清除細胞內的病毒, 有時IFN-alpha/beta產生過量會抑制白血球生成(WBC<2500, Seg 20-30%), 造成細菌轉移至肝臟形成肝膿瘍, 也可能在肺臟形成肺膿瘍。這種病例很常見, 不只老年人與小孩, 年輕人也不少。美軍新兵入伍, 用口服或注射抗生素來預防感染(已是Guideline), 因為曾有慘痛的集體感染教訓。臨床書本上沒說的, 藏在基礎醫學, 要靠臨床經驗去重新讀懂基礎醫學。
+http://www.med.navy.mil/directives/ExternalDirectives/6220.8B.pdf
+wleemc 於 2015/01/25 09:31 回覆
+
+───────────────
+
+訪客 於 2015/01/25 00:17
+
+BTW 熱病, WASHINTON MANNUL ,HARRISON 沒看過用Abx 的criteria是 elder ,infant & child with fever
+
+─────────────
+
+疾病的表徵與進展千變萬化, 單靠Washington Manual, Harrison是無法行醫的。抗生素晚用半天, 病況可能回天乏術, 沒有人能預測疾病的進展。
+你去查一下, Neutrophil 與 Lymphocyte 的壽命多長? 細菌感染, 白血球為何會升高? 然後讀通免疫學的來龍去脈, 你就會同意我的看法。
+wleemc 於 2015/01/25 01:27 回覆
+
+───────────────
+
+訪客 於 2015/01/25 10:00
+
+現在終於知道ESBL ,VRE, MRSA是怎麼出來的
+
+─────────────
+
+你真的瞭解ESBL, VRE, MRSA 嗎?
+很少醫師讀懂免疫學, 也很少醫師懂得什麼是抗藥性, 對於存在於自然界的細菌, 人體用免疫系統與之隔絕, 一旦有感染, 傳統的 penicillin, erythromycin, tetracycline等就足以對抗, 其後衍生的beta-lactamase inhibitor及更多的cephalosporine, quinolone 等只是提高抗生素的效用, 無法取代免疫系統。敗血症並非單純由細菌造成, 而是免疫系統與細菌間的惡性循環, 任何抗生素都無法中止這種惡性循環, 這已不是抗藥性的問題, 而是一旦惡性循環發生, 你無法阻擋腸道細菌大舉進攻 (能嗎?)。醫師唯一能做的是, 在敗血症惡性循環形成之前就將其阻斷, 不使其發生。絕大部分的感染都可用1928年Fleming發現的Penicillin暫時壓住 (並非絕對), 讓免疫系統有時間準備。Penicillin猶如一道城牆, 即使無法殺死細菌, 也能暫時擋一陣子。真正對抗細菌的主力仍是免疫系統。至於ESBL, MRSA 等細菌並沒想像中那麼強, 只要免疫系統功能好, 這些細菌是無法入侵的。你反過來想, 若是沒有免疫系統, 你要用什麼抗生素治療? 抗藥性的確存在, 但可能是個假議題, 那些細菌本就與人類共存, 你想挽救免疫力崩潰的垂死老人, 自然就要面對抗藥性的問題。因為有抗藥性, 藥廠才會開發新的抗生素, 用以增加治療的效果。有新藥上市, 藥廠才能賺錢, 這是另一個無止境的循環。
+
+美軍陸戰隊的訓練十分艱難且精實, 隊員受訓時要定期注射Penicillin-G, 很簡單卻很有效能預防訓練時的潛在感染。免疫系統功能若好, 基本上ESBL, VRE, MRSA等細菌不易入侵, 即使入侵之後, Penicillin也可能在免疫系統未完成準備之前, 暫時壓住細菌. 
+wleemc 於 2015/01/25 14:32 回覆
+
+───────────────
+
 eatfruit 於 2021/09/13 22:15
 
 教授您好，請教些問題
@@ -12470,14 +12550,27 @@ https://tinyurl.com/3543wcp3
 
 ───────────────
 
+訪客 於 2022/06/10 12:29
 
+在新冠確診社團很多人分享，陽轉陰之後滿身的蕁麻疹，有些人甚至是第一次發這種疹子，請問版主的看法，感謝。
 
+─────────────
 
+蕁麻疹的起因是外來抗原(Ag)進入血液中，Naive B cell-IgM抓到抗原後，進行Class switch，產生IgE去抓抗原，最後Mast cell IgE-Ag把抗原帶到皮膚，Mast cell分泌Histamine讓皮膚上皮細胞發生水腫，藉此將外來抗原排出。另一種排除外來抗原的方式是直接用Protease將抗原分解成小Peptides，然後經由肝臟或皮膚排出，不經由Mast cell-IgE-Ag這條路就不會起蕁麻疹。
 
+wleemc 於 2022/06/10 13:07 回覆
+https://tinyurl.com/y2p4aeme
 
+───────────────
 
+訪客 於 2022/06/10 13:48
 
+真是受夠了這些台大庸醫 ，別再上當了！
+Omicron變異株BA.5快速在英國增長 黃立民：警訊！年底可能人人都需打次世代疫苗 - Yahoo奇摩新聞
+https://ynews.page.link/mJBS
+https://tw.news.yahoo.com/omicron變異株-ba-5-快速在英國增長-黃立民：警訊！年底可能人人都需打次世代疫苗-041221926.html
 
+───────────────
 
 
 
