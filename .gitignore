@@ -1,6 +1,9 @@
 # Except this file
 !.gitignore
 
+stan-models/*
+!stan-models/*.stan
+
 # Object files
 *.o
 *.ko
@@ -41,4 +44,3 @@ Icon?
 Thumbs.db
 ehthumbs.db
 *.db
-
