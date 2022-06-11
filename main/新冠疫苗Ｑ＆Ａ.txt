@@ -56,6 +56,86 @@ https://youtu.be/o_nKoybyMGg
 
 ───────────────
 
+訪客 於 2014/07/31 17:26
+
+重點應該不是在早用晚用吧 或者盡早用
+這容易使讀者誤解
+應該是醫生臨床判斷甚麼時候該用?
+如果臨床醫師判斷需要使用,自然沒有早晚的問題
+當用則用
+甚麼時候該用或不該用anti
+個人認為醫務所醫官經驗較資淺,可用資源有限
+要苛責他們也實在是太over
+較適切的做法應視病情嚴重者即時轉診到802
+有CXR LAB輔助,要MISS診斷PNEUMONIA相對不會發生
+不是每個發生咳嗽都是PNEUMONIA
+也不是每個都要用ANTI
+最後
+ANTI不是萬靈丹,更不是退燒藥
+
+─────────────
+
+版主已把美軍的Guideline附上了, 再貼一次: 
+http://www.med.navy.mil/directives/ExternalDirectives/6220.8B.pdf
+
+MTF (medical treatment facilities) commanders, commanding officers, and officers in charge supporting recruit and other training centers will routinely administer antibiotic prophylaxis to all recruits upon arrival and as indicated; and shall communicate prophylaxis status to commanding officers of RTC (Recruit Training Command) and the MCRDs (Marine Corps Recruit Depots) on a regular basis. 
+(1) Year round primary prophylaxis regimen:
+All recruits, not allergic to penicillin, will receive benzathine penicillin G. 
+(2) Alternate prophylaxis regimens include:
+(a) Oral azithromycin, 1 gram weekly for 4 weeks.
+(b) Oral penicillin VK, 250 milligrams twice daily for 4 weeks.
+(c) Oral erythromycin, 250 milligrams twice daily for 4 weeks.
+人家是沒等你發燒, 新兵入伍報到就用抗生素了. 軍事訓練講求速效, 就怕一個感染, 整個營區都遭殃, 讓訓練停擺. 事情沒發生之前, 大家都以為絕不會有事, 等到發生了才驚覺問題怎會嚴重到人病死了. 美軍一定有切膚之痛才會事先使用抗生素預防. 
+wleemc 於 2014/07/31 18:11 回覆
+
+───────────────
+
+訪客 於 2015/01/25 00:15
+
+"小孩與老人感冒只要有發燒，我的看法是一律使用抗生素"
+本版上有許多學弟在觀看
+請版主謹慎用字遣詞
+今日若病人診斷已確診dengue fever ,influenza
+請問是不是一體適用抗生素?????
+隨便去問一個北榮的INF ,Chest man ,您上述這句話是否會得到認同?
+
+─────────────
+
+不認同沒關係, 經驗告訴我, 若不這麼用, 恐怕會對不起病人。我不希望病人因遲用抗生素而死亡或發生嚴重的後遺症. 
+真實的案例, 一個國中生畢業旅行時感冒, 雖然有去診所看病, 但醫師只當感冒醫, 喉痛發燒沒及時用抗生素, 病好之後約三個月出現蛋白尿, 後來逐漸惡化, 二十幾歲就洗腎。原來當初是鏈球菌的扁桃腺炎, 不是感冒, 最後導致PSGN (Post-streptococcal glomerulonephritis).
+
+老人或小孩, 流感若發高燒, 請適時使用抗生素, 上文的敗血症是原因之一, 另一個因素是人體靠IFN-alpha/beta清除細胞內的病毒, 有時IFN-alpha/beta產生過量會抑制白血球生成(WBC<2500, Seg 20-30%), 造成細菌轉移至肝臟形成肝膿瘍, 也可能在肺臟形成肺膿瘍。這種病例很常見, 不只老年人與小孩, 年輕人也不少。美軍新兵入伍, 用口服或注射抗生素來預防感染(已是Guideline), 因為曾有慘痛的集體感染教訓。臨床書本上沒說的, 藏在基礎醫學, 要靠臨床經驗去重新讀懂基礎醫學。
+http://www.med.navy.mil/directives/ExternalDirectives/6220.8B.pdf
+wleemc 於 2015/01/25 09:31 回覆
+
+───────────────
+
+訪客 於 2015/01/25 00:17
+
+BTW 熱病, WASHINTON MANNUL ,HARRISON 沒看過用Abx 的criteria是 elder ,infant & child with fever
+
+─────────────
+
+疾病的表徵與進展千變萬化, 單靠Washington Manual, Harrison是無法行醫的。抗生素晚用半天, 病況可能回天乏術, 沒有人能預測疾病的進展。
+你去查一下, Neutrophil 與 Lymphocyte 的壽命多長? 細菌感染, 白血球為何會升高? 然後讀通免疫學的來龍去脈, 你就會同意我的看法。
+wleemc 於 2015/01/25 01:27 回覆
+
+───────────────
+
+訪客 於 2015/01/25 10:00
+
+現在終於知道ESBL ,VRE, MRSA是怎麼出來的
+
+─────────────
+
+你真的瞭解ESBL, VRE, MRSA 嗎?
+很少醫師讀懂免疫學, 也很少醫師懂得什麼是抗藥性, 對於存在於自然界的細菌, 人體用免疫系統與之隔絕, 一旦有感染, 傳統的 penicillin, erythromycin, tetracycline等就足以對抗, 其後衍生的beta-lactamase inhibitor及更多的cephalosporine, quinolone 等只是提高抗生素的效用, 無法取代免疫系統。敗血症並非單純由細菌造成, 而是免疫系統與細菌間的惡性循環, 任何抗生素都無法中止這種惡性循環, 這已不是抗藥性的問題, 而是一旦惡性循環發生, 你無法阻擋腸道細菌大舉進攻 (能嗎?)。醫師唯一能做的是, 在敗血症惡性循環形成之前就將其阻斷, 不使其發生。絕大部分的感染都可用1928年Fleming發現的Penicillin暫時壓住 (並非絕對), 讓免疫系統有時間準備。Penicillin猶如一道城牆, 即使無法殺死細菌, 也能暫時擋一陣子。真正對抗細菌的主力仍是免疫系統。至於ESBL, MRSA 等細菌並沒想像中那麼強, 只要免疫系統功能好, 這些細菌是無法入侵的。你反過來想, 若是沒有免疫系統, 你要用什麼抗生素治療? 抗藥性的確存在, 但可能是個假議題, 那些細菌本就與人類共存, 你想挽救免疫力崩潰的垂死老人, 自然就要面對抗藥性的問題。因為有抗藥性, 藥廠才會開發新的抗生素, 用以增加治療的效果。有新藥上市, 藥廠才能賺錢, 這是另一個無止境的循環。
+
+美軍陸戰隊的訓練十分艱難且精實, 隊員受訓時要定期注射Penicillin-G, 很簡單卻很有效能預防訓練時的潛在感染。免疫系統功能若好, 基本上ESBL, VRE, MRSA等細菌不易入侵, 即使入侵之後, Penicillin也可能在免疫系統未完成準備之前, 暫時壓住細菌. 
+wleemc 於 2015/01/25 14:32 回覆
+
+───────────────
+
 訪客 於 2015/07/04 18:13
 
 重點是:
@@ -208,6 +288,114 @@ wleemc 於 2015/07/07 16:02 回覆
 
 ───────────────
 
+訪客 於 2015/11/25 21:03
+
+https://www.ptt.cc/bbs/AfterPhD/M.1344676879.A.772.html
+
+純就這篇文章，版主怎麼看？
+
+─────────────
+
+2008年美國金融風暴後, 全球資金已悄悄移動, 2010年之後, 美國NIH研究計畫通過率已降至5%左右. 美國不斷印鈔票穩定經濟, 股市不斷炒高, 但美國政府的債務卻加速累積, 形成十分嚴重的反差, 其實美國政府已經沒錢了, 對於研究, 也只能把資源集中. 2010年以後, 台灣面臨相同的情況, 對於研究, 也只能把資源集中, 因為政府真的沒錢. 不管美國人還是臺灣人, 都是既幼稚又可笑, 美國沒錢還一直對外用兵, 台灣沒錢還一直推募兵. 曾幾何時, 台灣有所謂的五年五百億投資在大學教育, 現在沒錢, 卻要每年花五百億去募兵, 這正是人類原始本能的幼稚, 人類不會學習, 只會在歷史的錯誤中不斷循環.
+
+wleemc 於 2015/11/26 08:28 回覆
+
+───────────────
+
+訪客 於 2015/12/03 18:39
+
+最簡單的例子是 : 太空人是飲用經過科學方法處理過的, 他自己排出的尿 !
+
+但你不能不告知, 就用有問題的原料來製作給不知情的人食用. 販賣基改食物要標註, 應該就是這個道理. 以後地球再暖化變乾旱 (如敘利亞, 產生難民), 土地不適耕種, 像比爾蓋茲所研發的人工雞蛋, 及在研發中, 可減少碳排放的人工牛肉等, 非用自然原料所生產出來的食物, 恐怕會變成人類未來的主食 ! 台灣有如頂新等食品科技技術, 或許未來也能發揮也說不定 ?!
+
+─────────────
+
+與其用民粹滅頂, 不如監督頂新的降價產品, 更能造福窮人.
+wleemc 於 2015/12/03 19:45 回覆
+
+───────────────
+
+#2 訪客 於 2015/12/07 11:44
+
+狗改不了吃屎，頂新魏家既然以搞裙帶關係起家大賺黑心錢，就不用期待他會有洗心革面的一天。把頂新趕出台灣，空出的市場自然會有人接手，如何改善制度讓接手的人沒有賺黑心錢的機會才是最重要的事情。
+
+─────────────
+
+1949年, 大陸人民趕走了蔣介石, 空出的位置自然會有人接手, 就是毛澤東. 
+如何改善制度讓接手的人沒有-------的機會?
+wleemc 於 2015/12/07 12:45 回覆
+
+───────────────
+
+#2 於 2015/12/08 00:52
+
+歐美的法規制度現成擺在那邊，拿來研究研究吧；雖然不完美，但終究比台灣正常得多。至於中國人民與中共之間的問題，得要中國人民自己解決，文化思想不改，怎麼革命上台的都是獨裁者。
+
+─────────────
+
+1. 在法律漏洞下謀利是人的本性，歐美人不會比台灣人有良心。
+2. 在獨裁中繁榮，在繁榮中民主，台灣是這樣走過來的。 希特勒 墨索里尼 距離現在才70年。
+wleemc 於 2015/12/08 06:52 回覆
+
+───────────────
+
+#4 #2 於 2015/12/08 13:30
+
+1. 所以我說的是歐美的法規而不是歐美的人性，歐美國家比華人願意討論如何用制度去減少不當牟利的誘因，而不是動不動就用道德無限上綱。道德是假的，如何用制度綁住想賺黑心錢的人才是真的。
+2. 先讓國民黨倒了，台灣的民主才能繼續走下去。
+
+─────────────
+
+民主而不民粹, 換黨執政才是民主. 
+你想把企業與政黨搞倒就是民粹.
+wleemc 於 2015/12/08 13:38 回覆
+
+───────────────
+
+#5 訪客 於 2015/12/09 12:49
+
+1. 台灣某些特定陣營的人及政客常常濫用民粹這個詞，批評所有反對他們的人都是民粹，但民粹一詞本身是中性的，詳請參見:
+http://whogovernstw.org/2015/09/26/fangyuchen12/
+2. 如果民主國家某黨只能靠黨產跟裙帶關係活下去，那他不該是這個國家的前兩大黨。
+
+─────────────
+
+You are #2.
+You don't have to cite a paper to justify what you wrote in the blog. Write a paper by yourself to show your idea of populism. 
+Look back at your fist sentence in visitor's response (#2)--- A dog never changes its habit of eating shits.--- like a mirror you look yourself inside.
+
+wleemc 於 2015/12/09 13:09 回覆
+
+───────────────
+
+訪客 於 2016/01/02 16:22
+
+打擾版主了:
+先前, 版主曾提到醫學系求學期間有哪幾科哪些書本須讀得好, 認真讀, 不然醫學基礎不夠, 就只能讀共筆了?!
+
+─────────────
+
+生物化學, 
+Lehninger, Principles of Biochemistry
+最好讀一本分子生物學
+Darnell et al., Molecular Cell Biology
+
+免疫學
+Janeway, Immunobiology
+
+基礎神經學, 下列三本選讀一本
+Barr’s The Human Nervous System
+Noback, Human Nervous System
+Snell, Clinical Neuroanatomy for Medical Students
+
+病理學
+Robbins and Cotran: Pathologic Basis of Disease
+
+醫學生若有能力讀完且讀懂上面的原文教科書, 前途無量. 
+wleemc 於 2016/01/02 18:15 回覆
+
+───────────────
+
 緯 於 2016/04/18 22:37
 
 請問 甚麼是便秘型的腹瀉?
@@ -238,86 +426,6 @@ asdfgtrey24351v 於 2022/02/15 17:28
 
 Pseudomembrane colitis有症狀，先用Vancomycin，益生菌暫緩，腹瀉改善就可停Vancomycin，加上益生菌。Clostridium difficile是腸道共生菌，不必全殺。
 wleemc 於 2022/02/15 17:45 回覆
-
-───────────────
-
-訪客 於 2014/07/31 17:26
-
-重點應該不是在早用晚用吧 或者盡早用
-這容易使讀者誤解
-應該是醫生臨床判斷甚麼時候該用?
-如果臨床醫師判斷需要使用,自然沒有早晚的問題
-當用則用
-甚麼時候該用或不該用anti
-個人認為醫務所醫官經驗較資淺,可用資源有限
-要苛責他們也實在是太over
-較適切的做法應視病情嚴重者即時轉診到802
-有CXR LAB輔助,要MISS診斷PNEUMONIA相對不會發生
-不是每個發生咳嗽都是PNEUMONIA
-也不是每個都要用ANTI
-最後
-ANTI不是萬靈丹,更不是退燒藥
-
-─────────────
-
-版主已把美軍的Guideline附上了, 再貼一次: 
-http://www.med.navy.mil/directives/ExternalDirectives/6220.8B.pdf
-
-MTF (medical treatment facilities) commanders, commanding officers, and officers in charge supporting recruit and other training centers will routinely administer antibiotic prophylaxis to all recruits upon arrival and as indicated; and shall communicate prophylaxis status to commanding officers of RTC (Recruit Training Command) and the MCRDs (Marine Corps Recruit Depots) on a regular basis. 
-(1) Year round primary prophylaxis regimen:
-All recruits, not allergic to penicillin, will receive benzathine penicillin G. 
-(2) Alternate prophylaxis regimens include:
-(a) Oral azithromycin, 1 gram weekly for 4 weeks.
-(b) Oral penicillin VK, 250 milligrams twice daily for 4 weeks.
-(c) Oral erythromycin, 250 milligrams twice daily for 4 weeks.
-人家是沒等你發燒, 新兵入伍報到就用抗生素了. 軍事訓練講求速效, 就怕一個感染, 整個營區都遭殃, 讓訓練停擺. 事情沒發生之前, 大家都以為絕不會有事, 等到發生了才驚覺問題怎會嚴重到人病死了. 美軍一定有切膚之痛才會事先使用抗生素預防. 
-wleemc 於 2014/07/31 18:11 回覆
-
-───────────────
-
-訪客 於 2015/01/25 00:15
-
-"小孩與老人感冒只要有發燒，我的看法是一律使用抗生素"
-本版上有許多學弟在觀看
-請版主謹慎用字遣詞
-今日若病人診斷已確診dengue fever ,influenza
-請問是不是一體適用抗生素?????
-隨便去問一個北榮的INF ,Chest man ,您上述這句話是否會得到認同?
-
-─────────────
-
-不認同沒關係, 經驗告訴我, 若不這麼用, 恐怕會對不起病人。我不希望病人因遲用抗生素而死亡或發生嚴重的後遺症. 
-真實的案例, 一個國中生畢業旅行時感冒, 雖然有去診所看病, 但醫師只當感冒醫, 喉痛發燒沒及時用抗生素, 病好之後約三個月出現蛋白尿, 後來逐漸惡化, 二十幾歲就洗腎。原來當初是鏈球菌的扁桃腺炎, 不是感冒, 最後導致PSGN (Post-streptococcal glomerulonephritis).
-
-老人或小孩, 流感若發高燒, 請適時使用抗生素, 上文的敗血症是原因之一, 另一個因素是人體靠IFN-alpha/beta清除細胞內的病毒, 有時IFN-alpha/beta產生過量會抑制白血球生成(WBC<2500, Seg 20-30%), 造成細菌轉移至肝臟形成肝膿瘍, 也可能在肺臟形成肺膿瘍。這種病例很常見, 不只老年人與小孩, 年輕人也不少。美軍新兵入伍, 用口服或注射抗生素來預防感染(已是Guideline), 因為曾有慘痛的集體感染教訓。臨床書本上沒說的, 藏在基礎醫學, 要靠臨床經驗去重新讀懂基礎醫學。
-http://www.med.navy.mil/directives/ExternalDirectives/6220.8B.pdf
-wleemc 於 2015/01/25 09:31 回覆
-
-───────────────
-
-訪客 於 2015/01/25 00:17
-
-BTW 熱病, WASHINTON MANNUL ,HARRISON 沒看過用Abx 的criteria是 elder ,infant & child with fever
-
-─────────────
-
-疾病的表徵與進展千變萬化, 單靠Washington Manual, Harrison是無法行醫的。抗生素晚用半天, 病況可能回天乏術, 沒有人能預測疾病的進展。
-你去查一下, Neutrophil 與 Lymphocyte 的壽命多長? 細菌感染, 白血球為何會升高? 然後讀通免疫學的來龍去脈, 你就會同意我的看法。
-wleemc 於 2015/01/25 01:27 回覆
-
-───────────────
-
-訪客 於 2015/01/25 10:00
-
-現在終於知道ESBL ,VRE, MRSA是怎麼出來的
-
-─────────────
-
-你真的瞭解ESBL, VRE, MRSA 嗎?
-很少醫師讀懂免疫學, 也很少醫師懂得什麼是抗藥性, 對於存在於自然界的細菌, 人體用免疫系統與之隔絕, 一旦有感染, 傳統的 penicillin, erythromycin, tetracycline等就足以對抗, 其後衍生的beta-lactamase inhibitor及更多的cephalosporine, quinolone 等只是提高抗生素的效用, 無法取代免疫系統。敗血症並非單純由細菌造成, 而是免疫系統與細菌間的惡性循環, 任何抗生素都無法中止這種惡性循環, 這已不是抗藥性的問題, 而是一旦惡性循環發生, 你無法阻擋腸道細菌大舉進攻 (能嗎?)。醫師唯一能做的是, 在敗血症惡性循環形成之前就將其阻斷, 不使其發生。絕大部分的感染都可用1928年Fleming發現的Penicillin暫時壓住 (並非絕對), 讓免疫系統有時間準備。Penicillin猶如一道城牆, 即使無法殺死細菌, 也能暫時擋一陣子。真正對抗細菌的主力仍是免疫系統。至於ESBL, MRSA 等細菌並沒想像中那麼強, 只要免疫系統功能好, 這些細菌是無法入侵的。你反過來想, 若是沒有免疫系統, 你要用什麼抗生素治療? 抗藥性的確存在, 但可能是個假議題, 那些細菌本就與人類共存, 你想挽救免疫力崩潰的垂死老人, 自然就要面對抗藥性的問題。因為有抗藥性, 藥廠才會開發新的抗生素, 用以增加治療的效果。有新藥上市, 藥廠才能賺錢, 這是另一個無止境的循環。
-
-美軍陸戰隊的訓練十分艱難且精實, 隊員受訓時要定期注射Penicillin-G, 很簡單卻很有效能預防訓練時的潛在感染。免疫系統功能若好, 基本上ESBL, VRE, MRSA等細菌不易入侵, 即使入侵之後, Penicillin也可能在免疫系統未完成準備之前, 暫時壓住細菌. 
-wleemc 於 2015/01/25 14:32 回覆
 
 ───────────────
 
@@ -13039,7 +13147,55 @@ To: 教授: 您是我孩子的救命恩人, 我一定會跟我孩子說您的義
 
 ───────────────
 
+IO 於 2022/06/11 08:56
 
+一直未見版主寫關於基因定序的技術性文章，我就丟出幾個點來請教版主看是否有問出什麼東西（疫苗政治挺無聊的，分子生物學有趣多了）：
+基因定序的工法是否是從一個所謂新冠病毒的培養皿（裡面有Vero細胞，病人痰液，bovine serum, 以及一點抗生素）的一坨東西打散（我猜就是用某一種均質機homogenizer)，這一坨被打散的東西裡面有長短不一的基因序列，把這些片段都分析出序列碼，再用電腦去把相同的序列碼比對，拼接出結果的一串大約三萬bp的序列:
+1.因為已經假定這個病毒是大約三萬bp的冠狀病毒，所以把上面打散的序列裡面超過或低於多少長度的序列碼捨棄，只取某些長度範圍的序列碼，以拼湊建構出想像中的新冠病毒序列
+2.如果定序的方法同以上我所理解的工法，是否不同實驗室做出來的新冠病毒序列會是不一樣的？
+3.如果定序的方法同以上我所理解的工法，是否無法排除這一坨散亂的基因序列的來源其實是vero細胞/bovine serum/病人痰液裡面死掉的細胞分解物？
+
+─────────────
+
+1. 你的想像完全錯誤，病毒RNA序列是存在的。
+2. 同一個人身上可以做出數十種病毒RNA相似度在99%以上的不同序列。
+3. 你一定沒做過實驗或只在實驗室晃過幾天，沒有深入才會有這種想法。
+
+wleemc 於 2022/06/11 10:32 回覆
+https://tinyurl.com/ue563x2w
+
+───────────────
+
+IO 於 2022/06/11 11:09
+
+是的，我沒有深入做過實驗。
+請教版主，購買武漢肺炎病毒的樣本，會是如何運輸的？是否包括vero細胞一起送來？
+病毒有沒有任何儲存的形式是單獨存在的粉末？
+
+─────────────
+
+1. 需要 P3 實驗室的檢定證書才能買，另外需要有機構申請書及研究計劃書。運送方式在冷凍包裝(解凍後是液體)，將包裝好的樣本送到P3實驗打開。
+2. Vero cell 要分開買。
+
+wleemc 於 2022/06/11 12:17 回覆
+https://tinyurl.com/2p9jz8ff
+
+───────────────
+
+ IO 於 2022/06/11 12:17
+
+解凍後是液體的，這個液體不會只有水吧？這個液體裡面含有哪些成分？
+或者問，如果要做這種產品去賣人，如何分離純化出RNA病毒？再來說如何包裝這個做好的產品呢？
+
+─────────────
+
+1. 液體是培養病毒/細胞的Medium。養出來的病毒會先定量，確定會形成Plaques，計算/定量，然後分裝賣出。
+2. 如果不做疫苗，一般不會去純化病毒。純化病毒有一定的方式，跟純化蛋白類似，需要Run chromatography column。
+
+wleemc 於 2022/06/11 12:29 回覆
+https://tinyurl.com/2p8md24j
+
+───────────────
 
 
 
