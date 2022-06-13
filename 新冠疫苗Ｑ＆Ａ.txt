@@ -10371,6 +10371,19 @@ https://tinyurl.com/53rsnxr2
 
 ───────────────
 
+訪客 於 2022/06/13 00:07
+
+李教授您好：請問像父母都打疫苗2劑，現在才知道疫苗的問題，不給孩子打疫苗，但是棘突蛋白會藉由空氣傳播，這樣小孩會不會被改變基因呢？？超級擔心的😓 謝謝您🙏
+
+─────────────
+
+棘突蛋白不會藉由空氣傳播。棘突蛋白是「蛋白」，「蛋白」不會改變基因。
+
+wleemc 於 2022/06/13 00:16 回覆
+https://tinyurl.com/2p8e24zt
+
+───────────────
+
 訪客 於 2022/05/18 08:52
 
 請問教授：您言““幾乎沒有人能忍受輝瑞口服藥（Paxlovid)的副作用，尤其是老人，吃了免疫力會更差，因為免疫反應所需的數十種蛋白質分解酵素，也會被輝瑞口服藥（Paxlovid)抑制。””
@@ -15401,6 +15414,84 @@ https://tinyurl.com/2p84t2a8
 
 ───────────────
 
+IO 於 2022/06/13 10:36
+
+本篇版主說明的 -- 文中作者用SARS-CoV-2感染A549 cell (人類肺腺癌細胞株)、HUH7.0 cell(人類肝癌細胞株)、HEK-293T cell(表現Simian vacuolating virus-40 Large T antigen的人類胚胎腎細胞株)、EFK-3B cell (黃蝙蝠腎細胞株)、Vero E6 cell/Vero CCL81 cell(綠猴腎細胞株)，只有Vero E6 cell與Vero CCL81 cell能培養出大量的病毒，並使細胞產生CPE (Cytopathic effect)。 --
+"No CPE was observed in any of the cell lines except in Vero cells"( https://wwwnc.cdc.gov/eid/article/26/6/20-0516_article )
+1.有沒有可能病毒跟人類細胞HERT的primer對接的太好，病毒RNA轉變成ds DNA 插進染色體，做出antisense RNA干擾了病毒RNA的複製，病毒複製不成功所以沒有CPE? (https://www.pnas.org/content/118/21/e2105968118
+Reverse-transcribed SARS-CoV-2 RNA can integrate into the genome of cultured human cells and can be expressed in patient-derived tissues. )
+猴vero細胞的reverse transcriptase 的primer 則是跟病毒RNA對接不順利所以沒有被插入染色體>就沒有被antisense RNA干擾>病毒複製成功>有CPE.
+2.版主之前說過的細胞機制microRNA干擾病毒RNA複製是否包括antisense RNA? (前提是RNA>dsDNA 插入染色體)
+
+─────────────
+
+外來RNA進入細胞，細胞會分泌IFN-alpha與IFN-beta，這兩種Cytokines是Anti-viral cytokines，作用在細胞的Receptor上會傳遞Antiviral signals，其中一項便是促使Reverse transcriptase基因(LINE-1)轉錄，製造Reverse transcriptase。用來培養病毒的細胞株，通常都要把IFN-alpha與IFN-beta基因Knockout or Silencing。
+
+Reverse transcriptase是使用tRNA當Primer來合成cDNA。
+
+RNA病毒的RNA-->ds DNA-->插入染色體，然後用病毒的基因序列為模板來製造microRNA--->Anti-sense RNA against viral RNA。
+
+https://www.mdpi.com/1467-3045/44/3/73/htm
+這篇文章用BNT疫苗加入Huh-7 cell，只作用6小時，mRNA--->ds DNA--->Inserted into chromosome DNA，反應非常快，代表mRNA疫苗直接打進人體非常危險，ds DNA會在很短的時間內插入全身細胞的染色體。
+---------------
+轉貼版上科學論述，不得使用版主姓名及工作地點。
+
+wleemc 於 2022/06/13 12:26 回覆
+https://tinyurl.com/wjmxt6w6
+
+───────────────
+
+把RNA做成疫苗打到體內是有事嗎? 促進LINE-1 於 2022/06/13 12:32
+
+-- 外來RNA進入細胞，細胞會分泌IFN-alpha與IFN-beta，這兩種Cytokines是Anti-viral cytokines，作用在細胞的Receptor上會傳遞Antiviral signals，其中一項便是促使Reverse transcriptase基因(LINE-1)轉錄，製造Reverse transcriptase。--
+
+─────────────
+
+把RNA做成疫苗打到體內是有事嗎?
+Ans: 外來RNA的Hairpin loops形成的立體結構與細胞RNA的Hairpin loops形成的立體結構有TLR-3, -7/8能分辨出來的差異，只要TLR-3, -7/8發現外來RNA進入細胞，就會啟動TLR-3, -7/8 signal transduction，製造Type I interferon (IFN-alpha/beta)。Type I interferon signaling transduction會產生Anti-viral effects，其中之一便是LINE-1 gene transcription--->Reverse transcriptase合成。
+
+https://www.pnas.org/content/118/21/e2105968118
+Reverse-transcribed SARS-CoV-2 RNA can integrate into the genome of cultured human cells and can be expressed in patient-derived tissues. 
+
+https://www.mdpi.com/1467-3045/44/3/73/htm
+Intracellular Reverse Transcription of Pfizer BioNTech COVID-19 mRNA Vaccine BNT162b2 In Vitro in Human Liver Cell Line
+這兩篇研究預示mRNA疫苗將帶給人類災難。
+-------
+轉貼版上科學論述，不得使用版主姓名及工作地點。
+
+wleemc 於 2022/06/13 12:50 回覆
+https://tinyurl.com/4ntyx82c
+
+───────────────
+
+IO 於 2022/06/13 12:45
+
+Morphogenesis and cytopathic effect of SARS-CoV-2 infection in human airway epithelial cells
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7413383/
+這篇的HAE應該不是有knockout掉IFN-alpha與IFN-beta的培養專用細胞株，這篇有CPE。
+專供細胞培養的人類細胞株都沒有CPE: A549 cell (人類肺腺癌細胞株)、HUH7.0 cell(人類肝癌細胞株)、HEK-293T cell(表現Simian vacuolating virus-40 Large T antigen的人類胚胎腎細胞株)
+猴VERO細胞有CPE, 猴VERO細胞應該有knockout掉IFN-alpha與IFN-beta.
+請問版主如何看這些CPE的結果跟LINE-1的關係?
+
+─────────────
+
+LINE-1 gene transcription只是Anti-viral effects的一小部分，已知的Anti-viral effects包括
+1. Protein kinase R signaling---->選擇性抑制病毒蛋白合成。
+2. RNase L活化---->選擇性切割Viral RNA。
+3. Matrix protein合成---->在細胞內包圍Viral particles---->Lysosome degradation。
+4. MicroRNA---->Anti-sense RNA against viral RNA
+5. RNA editing----> Viral genome mutation ----> Inactive mutant。
+6. RNA editing----> Cellular protein mutations in RNA level--->Mutated proteins interfere with viral RNA replication and viral particle formation。
+
+病毒在哪一種細胞株能繁殖，造成CPE，跟細胞株的Genetic background有關，LINE-1是否活化只是其中之一。
+-------
+轉貼版上科學論述，不得使用版主姓名及工作地點。
+
+wleemc 於 2022/06/13 13:09 回覆
+https://tinyurl.com/mrxdmuz3
+
+───────────────
+
 Wei Hu 於 2022/06/11 23:59
 
 五月初，幸運的在網路上忽然看到教授這部落格！ 感謝無私大愛！
@@ -15410,6 +15501,11 @@ Wei Hu 於 2022/06/11 23:59
 現在心中很不安，不知日舒 是否可磨碎，然後如同 Erythromycin，加上表飛鳴粉來依體重調劑，和Nexium泡水加蜂蜜？
 
 懇請教授賜告 日舒 可以磨粉嗎？
+
+─────────────
+
+日舒可以磨粉，與紅黴素調劑相同。
+wleemc 於 2022/06/12 07:41 回覆
 
 ───────────────
 
@@ -15547,7 +15643,7 @@ https://tinyurl.com/2p9h8eey
 
 ───────────────
 
-steve32 於 2022/06/12 19:26
+#8 steve32 於 2022/06/12 19:26
 
 請教李醫師:
 我沒打疫苗，有看到網友herblee寫到自然產生T cell抗體要21天的時間，所以要先打疫苗，不然感染病毒後會來不及產生抗體。人體產生T cell抗體真的要21天這麼久的時間嗎? 謝謝 !
@@ -15636,6 +15732,152 @@ https://tinyurl.com/rrk7d5at
 wleemc 於 2022/06/12 22:26 回覆
 
 ───────────────
+
+#17 訪客 於 2022/06/12 23:35
+
+請教版主，在回覆#8中提到"T cell 活化只需數小時"，數小時是找到能辨識抗原的T cell後開始計算的嗎？謝謝！
+
+─────────────
+
+數小時是T cell發現外來抗原，數小時後，尤其疫苗打進人體數小時後，DC就會把外來抗原帶到淋巴組織進行Th-->-DC->Tc的活化。T cell若沒發現外來抗原入侵人體，不會活化。
+
+T cell發現病毒入侵，如果數小時還沒活化、分裂並前往感染處聚集成三級淋巴組織(Tertiary lymphoid tissue)，那病毒很快就會擴散開來。許多醫師包括防疫指揮中心的醫師，只要在媒體談免疫學，就錯誤連篇。
+----------------
+轉貼版上科學論述，不得使用版主姓名及工作地點。
+
+wleemc 於 2022/06/13 08:40 回覆
+https://tinyurl.com/5n7dwfdh
+
+───────────────
+
+訪客#17 於 2022/06/13 01:26
+
+謝謝版主回覆。之所以請教上一問題是由於吃N+E的timing。按我自己和親友的經驗，有感冒先兆立刻吃，和已有明顯症狀才吃，效果有明顯差異。差半天吃N+E，就差很多了。
+
+───────────────
+
+訪客#17 於 2022/06/13 01:36
+
+補充說明。有感冒先兆立刻吃，吃一或兩次，就完全沒有感染的感覺了。已有明顯症狀才吃，就得要吃個幾天，因人而異。
+
+─────────────
+
+咽喉是重要的關卡，若有吃N+E，病毒很難往下走到氣管，頂多喉嚨痛兩三天，幾乎不會發生重感冒(急性支氣管炎)。如果兒童染疫立刻吃Zithromax + Nexium，腦炎重症+MIS-C會減少90%(頂多2-3例)，跟Omicron疫情發生前一樣。兒童每天曝露在十幾種致病的呼吸道病毒+腸病毒，腦炎重症+MIS-C都沒比一個Omicron多，診所醫師常開Zithromax給發燒的兒童吃是關鍵。
+--------------
+轉貼版上科學論述，不得使用版主姓名及工作地點。
+
+wleemc 於 2022/06/13 08:17 回覆
+https://tinyurl.com/yc56kyd9
+
+───────────────
+
+#20 訪客A 於 2022/06/13 09:39
+
+版主您好，家中年長長輩沒打過疫苗，週末開始有咳嗽症狀和輕微發燒 (耳溫37.6度)，已給他吃 N+E 早晚各一次，結果第一天傍晚他自己又偷偷拿普拿疼來吃(說是要退燒)
+
+1. 請問吃 N+E 又吃一顆普拿疼會出問題嗎? (不是同時吞下去，是先吃了N+E之後約4個小時才吃普拿疼)
+
+2. N+E 吃了兩天半之後 (每天早上都有給他吃維他命B、C、D3)，目前還是會一直咳嗽，但已無發燒，想請問您 N+E 有止咳的功效嗎? 是否要繼續吃呢?
+
+3. 若不需再吃N+E，是否有其他推薦的治療方式?
+
+非常感謝!
+
+─────────────
+
+1. 吃 N+E 又吃一顆普拿疼不會出問題
+2. 病毒清除，咳嗽自然會消失。N+E沒有止咳功能。止咳是虛的治療，抗病毒才是實的治療。
+3. 沒有，自然會好。
+wleemc 於 2022/06/13 12:05 回覆
+
+───────────────
+
+sunny6586 於 2022/06/12 23:05
+
+李醫生，我長期喉嚨過敏，最近喉嚨鼻子感覺有不舒服，吃了Nexium 1 顆 + Erythromycin 500 mg 二天，另外正在餵母奶，baby也正常喝母奶，有點擔心會有副作用嗎？第二天感覺胃部痙攣不舒服，本人有做過膽囊摘除手術，Erythromycin經過膽囊是否無法排出？謝謝
+
+─────────────
+
+若要餵母乳，請立刻停藥。
+Erythromycin在肝臟代謝，經膽汁排出。
+
+wleemc 於 2022/06/12 23:13 回覆
+https://tinyurl.com/2d4sbb2t
+
+───────────────
+
+#23 訪客 於 2022/06/13 12:40
+
+教授您好，請問6歲（體重約15公斤）的小孩，若改使用日舒錠250mg+N，其中日舒錠一樣是每次500mg(等於2顆)磨碎後取1/4嗎？（其實就是每次半顆）謝謝教授
+
+─────────────
+
+日舒與紅黴素調劑相同
+https://wleemc.pixnet.net/blog/post/121429816
+
+成人60公斤，日舒500 mg + Nexium 1顆，早晚各吃一次。
+
+wleemc 於 2022/06/13 13:08 回覆
+https://tinyurl.com/3rtw2j7c
+
+───────────────
+
+#24 訪客 於 2022/06/13 13:11
+
+所以老人家是因為他們的免疫系統功能只剩下健康成人的4、5、6成，所以CTL的攻擊力也比較弱，打針後才比較沒有發炎反應嗎？另外，很多打完針沒多久就走了的老人也屬於MIS嗎？
+
+─────────────
+
+80歲老人還活著，免疫系統只剩30-40%的功能，打疫苗會活化他原本就有的Anti-Omicron T cell，但會削弱他剩下的整體免疫力 (down to 25-30%--已達臨界點)，使他容易因其它細菌或病毒感染而死亡。統計學有Bias，只計算現在有多少老人沒打疫苗死於Omicron，沒去算更多打了疫苗的老人早已死於其它感染，埋葬了，因此沒計算到。
+
+老人打mRNA疫苗，CTL的攻擊力道會比年輕人弱很多。
+
+打完針沒多久就走了的老人，原因很多，MIS只是其中之一：
+1. Spike protein-->血栓-->引發中風或心肌梗塞
+2. 整體免疫力下降至臨界點，一個小感染如泌尿道感染就引發敗血症死亡。
+3. CTL攻擊搖搖欲墜的全身器官(MIS)，死亡3-5%，支撐身體最後那根樑柱就垮了。
+4. 本身已有PrLP聚集，疫苗的Spike protein "加速" 某些老人腦中PrLP聚集，大腦容量從40%--->25%--->Death
+--------
+轉貼版上科學論述，不得使用版主姓名及工作地點。
+
+wleemc 於 2022/06/13 13:39 回覆
+https://tinyurl.com/4r7x5nhy
+
+───────────────
+
+#25 訪客 於 2022/06/13 13:29
+
+影片14分, 前台大醫生說N+E只能殺細菌 ... 這是 ......
+https://www.youtube.com/watch?v=BWgjXEJdtmI
+
+─────────────
+
+Google "Macrolide Virus", "Erythromycin Virus", "Azithromycin Virus"
+隨便數一下Pubmed上的Paper，可能超過100篇。
+
+wleemc 於 2022/06/13 13:32 回覆
+https://tinyurl.com/ycyf74nb
+
+───────────────
+
+訪客A 於 2022/06/13 13:51
+
+非常感謝教授在#20樓詳細的回覆
+
+還想請問 1. 若只有咳嗽，是否需要繼續服用N+E 呢? 還是等自然好即可?
+
+另想請教 2. 一位親戚長輩去年中曾打過一劑莫德納，打完疫苗那幾天都沒有發燒或任何不良反應，當時只有為期一週感覺時常心跳很快的情形而已，但至今健康上都沒異狀，如同沒打過疫苗一樣，是否有需要依照國外的醫學專家如 Dr Zelenko Vladimir 所推薦的針後排毒配方，服用 HCQ+鋅 或檞皮素+鋅來除掉體內的S Protein 呢? 還是有其他更好的建議? 感謝教授百忙之中撥空幫助大家
+
+─────────────
+
+1. 先等它自然好
+2. 請自行決定，自行負責，版主不介入疫苗善後。
+
+wleemc 於 2022/06/13 13:58 回覆
+https://tinyurl.com/4z7wvnxy
+
+───────────────
+
 
 
 
