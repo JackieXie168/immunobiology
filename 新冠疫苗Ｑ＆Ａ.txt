@@ -15492,6 +15492,61 @@ https://tinyurl.com/mrxdmuz3
 
 ───────────────
 
+IO 於 2022/06/13 14:19
+
+請版主說明上面6.的機制，看不太懂:p
+
+─────────────
+
+一個正常情況下具備功能A的蛋白，它的一部份RNA經由RNA editing突變後，蛋白失去功能A，轉變成Anti-viral protein，干擾病毒RNA複製及病毒顆粒組裝。
+
+-------
+轉貼版上科學論述，不得使用版主姓名及工作地點。
+
+wleemc 於 2022/06/13 16:25 回覆
+https://tinyurl.com/2ptennv4
+
+───────────────
+
+IO 於 2022/06/14 10:06
+
+Vero是否有knockout掉IFN-alpha與IFN-beta?
+
+HUH7.0是否有knockout掉IFN-alpha與IFN-beta?
+
+這種資訊要去哪裡查?
+
+─────────────
+
+Vero cell 天生就有IFN-alpha與IFN-beta基因的缺陷(Gene missing)
+https://www.frontiersin.org/articles/10.3389/fcimb.2018.00127/full
+
+HUH7.0 cell實驗室很常用，IFN-alpha與IFN-beta基因是正常的
+
+要用心查，不能單靠別人給現成的資料。
+
+wleemc 於 2022/06/14 12:13 回覆
+https://tinyurl.com/578t9s7j
+
+───────────────
+
+IO 於 2022/06/14 10:18
+
+--Reverse transcriptase是使用tRNA當Primer來合成cDNA。--
+
+mRNA的對股是tRNA>tRNA對股做出cDNA>這個cDNA做出的mRNA就變成原來丟進去的mRNA的antisense RNA是嗎?
+
+所以做出來可以干擾原來的RNA
+
+─────────────
+
+細胞對外來RNA的Interference會經過特殊程序，從microRNA--->anti-sense RNA--->viral RNA degradation。用Reverse transcriptase做出Viral RNA的Anti-sense cDNA應該不是細胞對外來RNA Interference的主要路徑。
+
+wleemc 於 2022/06/14 12:08 回覆
+https://tinyurl.com/3rt7pzyy
+
+───────────────
+
 Wei Hu 於 2022/06/11 23:59
 
 五月初，幸運的在網路上忽然看到教授這部落格！ 感謝無私大愛！
@@ -15951,12 +16006,158 @@ https://tinyurl.com/4z7wvnxy
 
 ───────────────
 
+訪客 於 2022/06/14 02:59
+
+為什麼現在美國還在推 mRNA 疫苗給5歲以下幼童？FDA 很快便會通過5歲以下的緊急授權了…..那些專家是真心認為疫苗很安全，沒有問題嗎？ 
+
+https://thehill.com/policy/healthcare/3520807-pfizer-biontech-vaccine-effective-for-children-under-5-fda-staff/
+
+─────────────
+
+美國政治正確下的財經政策把美國五月通膨CPI推升至8.6%，創下四十年新高，根本不顧百姓生活。甚麼是政治正確？
+1. 今年十一月美國期中選舉，拜登遲遲不敢讓美聯儲升息，以免股市崩盤，又無法收割全球資產。零利率加上印鈔，讓美國資產泡沫化，通膨創四十年新高。
+2. 到處以美元霸權對各國實施貿易制裁，切斷全球商品製造原料的供應鏈來打擊不聽美國話的國家，結果所有制裁都倒打回美國，提升美國通膨。
+3. 俄烏戰爭，美國可以避免，爆發後美國也可以中止，但美國為了支撐霸權，讓烏克蘭繼續跟俄羅斯打，結果俄羅斯經濟越打越穩，死的是烏克蘭人民，美國通膨卻因石油價格攀升而持續往上爬。
+
+你看美國用政治正確處理經濟問題，弄糟美國經濟，就知道用政治正確處理新冠疫情會比核彈引爆還可怕，直接摧毀人類。美國已是迎向日落的帝國，不要再相信美國政治正確定出來的疫苗政策。
+…………
+轉貼版上科學論述，不得使用版主姓名及工作地點。
+
+wleemc 於 2022/06/14 08:10 回覆
+https://tinyurl.com/mrdpa5ad
+
+───────────────
+
+#37 訪客 於 2022/06/14 08:17
+
+「以往的研究已經證明新冠病毒的刺突蛋白是具有細胞毒性，所以Bret Weinstein，Robert Malone，及Steve Kirsch就認為輝瑞和莫德納的RNA疫苗所誘導產生的刺突蛋白是很危險。但是，事實上輝瑞及莫德納在設計新冠疫苗時就已經考慮到這一點，所以他們的疫苗所產生的刺突蛋白是有兩個重要的安全特性：第一，它帶有一個transmembrane anchor region（跨膜錨定區），所以會卡在細胞膜上，不會到處亂跑，第二，它的氨基酸序列已經被改變，從而失去細胞毒性。」
+以上這段是我從某網站截取，似乎將刺突蛋白對人體的傷害寫的很完美？想問版主這樣的論述對嗎？
+
+謝謝您！
+
+─────────────
+
+錯的
+
+1. Membrane protein會在細胞內Membrane存在包括ER、Endosome、Golgi apparatus。Exosome在血中，可攜帶Spike protein循環全身。
+2. Plasma membrane上的Spike protein會被細胞外的Protease 切割，Prion-like domain會在細胞外及血中聚集，吸引其它Prion-like protein過來聚集。
+3. BNT與Moderna疫苗會Bypass血小板及凝血因子，直接使Fibrinogen聚集，引發血栓，臨床病例不勝枚舉。
+…………
+轉貼版上科學論述，不得使用版主姓名及工作地點。
+
+wleemc 於 2022/06/14 08:39 回覆
+https://tinyurl.com/yxk6kcnr
+
+───────────────
+
+#36 訪客 於 2022/06/14 08:42
+
+請問教授關於這篇文章的論點，謝謝教授
+
+COVID-19／網傳年底將爆疫苗誘導性副作用？打疫苗會得癌症？免疫權威張南驥教授解析 - Heho健康
+https://heho.com.tw/archives/223823?fbclid=IwAR0QJJgEgLy8f2CoJ3C84-WLbCkLEngaC-ZY0f95e9x8D7y4ZBoFFG3Drmc
+
+─────────────
+
+這篇文章版主已經評論過了
+1. mRNA疫苗對TLR-4, TLR7/8的抑制，如下文
+https://www.medrxiv.org/content/10.1101/2021.05.03.21256520v1
+
+2. PNSA刊登新冠病毒的RNA可以在人類細胞經由Reverse transcriptase轉變成ds DNA，然後插進細胞的染色體。如下文：
+https://www.pnas.org/doi/10.1073/pnas.2105968118 
+如果上文為真，mRNA疫苗將給人類帶來災難，因為Reverse transcriptase可以從RNA無限複製出ss DNA--->ds DNA，於是有人對上文寫了評論：
+
+Negative comment
+https://www.pnas.org/doi/10.1073/pnas.2109066118
+
+Positive comment
+https://www.genengnews.com/topics/translational-medicine/eminent-mit-scientists-defend-controversial-sars-cov-2-genome-integration-results/
+
+疫苗mRNA-->ds DNA-->插入染色體-->突變-->癌症增加3-5倍
+
+3. 注射mRNA疫苗，四個月後，Spike protein仍可在Exosome測到。除非mRNA轉變成ds DNA插進染色體，否則不可能在注射四個月後仍可測到Spike protein。
+https://www.jimmunol.org/content/207/10/2405
+
+4. 做DNA cloning，養過Bacteriophage(Phage)的人都有十分深刻的經驗，Phage與Ecoli的比例要經過冗長的測試才不會走向Lysogenic cycle，即Phage DNA插進Ecoli chromosome，導致Ecoli對Phage產生免疫力，這樣就養不出Phage。
+
+1987年就發現許多細菌染色體存在CRISPR (clustered, regularly interspaced, short palindromic repeats)，2005-2007年才有研究顯示CRISPR來自各種Phage DNA，從CRISPR DNA可製造出Phage DNA的Anti-sense RNA，當RNA-DNA hybrid形成之後，Phage DNA就會被細菌的CAS蛋白切斷，Phage DNA就無法在細菌裡面複製。
+
+並非每種細菌都有CRISPR-CAS system，但Phage DNA可隨機插進Ecoli chromosome，Ecoli再從Phage DNA製造Anti-sense RNA against phage DNA，干擾Phage DNA複製。Phage vs Ecoli與Virus vs Cell似乎有一樣的基因互動，利用Anti-sense RNA干擾Phage/Virus基因複製及蛋白合成。
+
+https://tinyurl.com/ycxk8svr
+wleemc 於 2022/06/14 09:19 回覆
+
+───────────────
+
+訪客 於 2022/06/14 08:44
+
+To#37，
+
+就算不懂分子生物學，光看疫苗副作用和病毒感染症狀一模一樣，而且發生在全身各處，從頭到腳都有，就該知道疫苗是循環全身了。
+
+───────────────
+
+ring168888 於 2022/06/14 12:48
+
+尊敬的版主午安：
+
+感謝版主百忙之中仍能以宗教家的情懷不厭其煩地教導與回覆普羅大眾與切身有關的專業知。
+
+能否請教文章中的很多英文專有名詞有否中英對照辭典或書籍可查詢？能否推薦參考書籍？謝謝
 
 
+─────────────
 
+現在都在網路查，科學進步太快，紙本參考書都落時已久，紙本生醫辭典早被淘汰。
+wleemc 於 2022/06/14 13:31 回覆
 
+───────────────
 
+訪客 於 2022/06/14 13:45
 
+請問醫生~~~
+1.如果小孩第一時間篩陽，先給N+日舒的話，是否有機會降低腦炎發生的機率? 可否搭配輪著清冠服用?
+2.如果是吞進病毒引起腸胃反應而非咳嗽流鼻水等感冒症狀，還需要加其他的藥如止瀉或止吐嗎?感恩~
+
+─────────────
+
+日舒+耐適恩是目前唯一能延緩病毒在兒童鼻咽喉及腸道蔓延的抗病毒藥，請自行斟酌使用，自行負責。版主不對其它症狀負責，有問題請去看小兒科醫師。
+
+wleemc 於 2022/06/14 14:28 回覆
+https://tinyurl.com/yc798zsw
+
+───────────────
+
+ring168888 於 2022/06/14 14:34
+
+請問耐心的版主：
+
+CTL(殺手細胞)對人體都是正面的作用嗎？
+
+謝謝！
+
+─────────────
+
+CTL會毒殺表現外來抗原的細胞，主要任務是偵察外來抗原，若繼續毒殺自己的細胞，會被Treg cell制止，如果沒有Treg cell制止CTL濫殺，將導致自體免疫疾病。CTL瘋狂摧毀整個肝臟、心臟、大腦是最嚴重的自體免疫濫殺。
+………
+轉貼版上科學論述，不得使用版主姓名及工作地點。
+
+wleemc 於 2022/06/14 14:56 回覆
+https://tinyurl.com/2p8zv8rk
+
+───────────────
+
+訪客 於 2022/06/14 14:51
+
+教授好
+疫情兩年多來，大家都養成戴口罩、勤消毒的習慣，現在的孩子似乎比較少生病，請問這樣會不會讓免疫系統減少實戰經驗，導致感染omicron會變比較嚴重呢？
+
+─────────────
+
+不知道
+wleemc 於 2022/06/14 14:55 回覆
+
+───────────────
 
 
 
