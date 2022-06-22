@@ -13005,6 +13005,29 @@ https://tinyurl.com/2s427wt8
 
 ───────────────
 
+訪客 於 2022/06/01 18:35
+
+西方人應該早就認識免疫系統對付病毒的機制。
+20年前 Discovry的影片 https://youtu.be/D2Uuc76DvlI
+
+Body Story is an educational science series focused on the human body and the biological processes it undergoes during distinct life events. The series has been praised equally for its educational content, impressive visual graphics, and engaging human stories. Produced by Wall To Wall for the Discovery Channel, episodes 1-3 were released in 1998 and episodes 4-7 were released in 2001.
+
+現在西方國家的打新冠疫苗作法，應該就是板主所說的政治對策。
+
+───────────────
+
+訪客 於 2022/06/21 15:27
+
+
+不知流感疫苗該不該去打
+
+─────────────
+
+沒用
+wleemc 於 2022/06/21 15:32 回覆
+
+───────────────
+
 Kathy Chang 於 2022/05/28 21:51
 
 請問醫生如何看待台灣兒童多起重症腦炎事件及家長搶打5-11歲BNT疫苗?
@@ -16237,6 +16260,25 @@ https://tinyurl.com/52xpxrzb
 
 ───────────────
 
+訪客 於 2022/06/17 16:44
+
+謝謝版主回覆正露丸的真正作用，這又是一個"常識"與"知識"的差別案例。
+
+───────────────
+
+堅決不打疫苗 於 2022/06/21 12:29
+
+請問教授, 您怎麼看這則新聞"不只對抗新冠！mRNA疫苗成功治療胰臟癌個案" https://tw.stock.yahoo.com/news/不只對抗新冠-mrna疫苗成功治療胰臟癌個案-111401646.html 
+
+─────────────
+
+mRNA lipid nanoparticle本來就已用於活化Cancer-specific T cell，這不是新鮮事。
+
+wleemc 於 2022/06/21 12:51 回覆
+https://tinyurl.com/3auc8nn7
+
+───────────────
+
 訪客 於 2022/06/12 13:13
 
 請教版主，為何有醫生信誓旦旦說兒童打一劑疫苗可降低97% MIS-C風險？這是有國外研究根據的嗎？
@@ -16679,9 +16721,10 @@ https://www.jimmunol.org/content/207/10/2405
 1987年就發現許多細菌染色體存在CRISPR (clustered, regularly interspaced, short palindromic repeats)，2005-2007年才有研究顯示CRISPR來自各種Phage DNA，從CRISPR DNA可製造出Phage DNA的Anti-sense RNA，當RNA-DNA hybrid形成之後，Phage DNA就會被細菌的CAS蛋白切斷，Phage DNA就無法在細菌裡面複製。
 
 並非每種細菌都有CRISPR-CAS system，但Phage DNA可隨機插進Ecoli chromosome，Ecoli再從Phage DNA製造Anti-sense RNA against phage DNA，干擾Phage DNA複製。Phage vs Ecoli與Virus vs Cell似乎有一樣的基因互動，利用Anti-sense RNA干擾Phage/Virus基因複製及蛋白合成。
-
+………………
+轉貼版上科學論述，不得使用版主姓名及工作地點。
+wleemc 於 2022/06/14 11:38 回覆
 https://tinyurl.com/ycxk8svr
-wleemc 於 2022/06/14 09:19 回覆
 
 ───────────────
 
@@ -17371,6 +17414,74 @@ wleemc 於 2022/06/19 11:00 回覆
 
 ───────────────
 
+訪客 於 2022/06/20 21:56
+
+版主好，喉嚨痛通常醫生都開什麼藥?是喉嚨痛的藥還是都開止痛藥呢？
+
+喉嚨痛是否可以開始吃N,+E了嗎？若不適就停藥，沒有不適可吃七天，還是吃三天即可?
+
+若吃個幾天停藥後又吃個幾天，應該不會抗藥吧
+
+謝謝
+
+─────────────
+
+喉嚨痛吃普拿疼就行。N+E吃三天，若要吃七天，請自行決定，自行負責。
+
+wleemc 於 2022/06/20 22:10 回覆
+https://tinyurl.com/jrhdw9hu
+
+───────────────
+
+#91 訪客 於 2022/06/21 11:38
+
+請教版主，
+這個案例是引發了您所說的 T cell against self antigen(Autoimmune attack) 嗎? 還是疫苗引發PrLP聚集成amyloid? 還是兩者加乘結果? 
+
+https://tw.news.yahoo.com/獨-疑首例mis-a死者-健壯男確診康復-3天後出現5症狀亡-113900865.html
+
+─────────────
+
+應該是Autoimmune attack，與打疫苗很難直接關聯。如果與打疫苗有關的話，可能因疫苗破壞免疫平衡，使有些Treg cell該發揮功能的時後卻沒發揮功能去抑制Autoimmune CTL attack by molecular mimicry。
+
+wleemc 於 2022/06/21 13:18 回覆
+https://tinyurl.com/58tu5h7d
+
+───────────────
+
+訪客 於 2022/06/21 16:16
+
+#91 案例 有可能是血栓嗎? 肺栓塞?
+
+─────────────
+
+不是。
+是Autoimmune CTL attack by molecular mimicry out of control by Treg cell。
+
+wleemc 於 2022/06/21 17:13 回覆
+https://tinyurl.com/mr28sw2c
+
+───────────────
+
+訪客 於 2022/06/21 19:56
+
+請教頭痛有可能是病毒感染引起的嗎？若吃N+E是否可加普拿疼
+
+若確診的人輕症一定要吃藥治療嗎？沒吃藥會如何
+
+謝謝
+
+─────────────
+
+1. 單純的頭痛可能不是病毒感染。
+2. 吃N+E可加普拿疼。
+3. 輕症與重症無法區分。現在是輕症，八小時後可能變成重症。輕症要不要吃藥，請自行決定，自己對自己負責。
+
+wleemc 於 2022/06/21 20:18 回覆
+https://tinyurl.com/tbp7jkrz
+
+───────────────
+
 訪客 於 2022/06/17 22:29
 
 版主文章提及「打疫苗所產生的抗體只是輔助現有的Natural Ab延緩病毒擴散」，是否表示打疫苗確實能減少中重症，但感染初期即投藥N+E，即可在不傷身之情況下達到相同效果？
@@ -17719,6 +17830,49 @@ https://tinyurl.com/un34tmtd
 
 ───────────────
 
+訪客 於 2022/06/21 08:46
+
+請問教授，
+T細胞耗竭(T cell exhaustion)是不是持續性的抗原刺激，讓PD-1 這個免疫檢查點過度活化造成的？謝謝
+
+─────────────
+
+CTL被PD-1/PD-L1抑制是T cell exhaustion的原因之一，例如反覆施打新冠疫苗，猶如烽火戲諸侯(沒有真正的敵人入侵)，CTL被PD-1/PD-L1抑制不活化，當真正有新冠病毒入侵時，CTL反而不認為它是個危險的東西。
+------
+轉貼版上科學論述，不得使用版主姓名及工作地點。
+
+wleemc 於 2022/06/21 15:01 回覆
+https://tinyurl.com/479t9jhy
+
+───────────────
+
+訪客 於 2022/06/21 10:32
+
+請問版主Omicron導致的嗅味覺喪失是怎麼回事？怎麼恢復？
+
+─────────────
+
+1. 病毒與免疫反應破壞嗅神經的外套。
+2. 自然修復。
+wleemc 於 2022/06/21 12:44 回覆
+
+───────────────
+
+訪客 於 2022/06/21 12:09
+
+請問教授，現在有說日本研究BA.4與ˋBA.5又轉為對下呼吸道具有攻擊力的狀況，請問病毒演化這樣合理嗎? 謝謝
+
+─────────────
+
+關鍵仍在個別的人鼻咽喉有多少Anti-BA.4/BA.5 CTL，如果夠多，病毒就不會越過喉嚨。動物實驗用的是純種的單一基因老鼠，但真實世界除了同卵雙生，沒有兩個免疫基因完全相同的人。
+------
+轉貼版上科學論述，不得使用版主姓名及工作地點。
+
+wleemc 於 2022/06/21 15:02 回覆
+https://tinyurl.com/2syakwpt
+
+───────────────
+
 訪客 於 2022/06/20 22:21
 
 請問版主預估這波美股崩盤會到什麼時候才回升
@@ -17729,6 +17883,32 @@ https://tinyurl.com/un34tmtd
 
 wleemc 於 2022/06/20 23:08 回覆
 https://tinyurl.com/2p83a6ww
+
+───────────────
+
+訪客 於 2022/06/21 00:26
+
+道瓊2萬8還是高吧？中國日本等國持續拋售美債，美債都快有市場危機了，會不會引爆另一次全球金融風暴？
+
+─────────────
+
+美聯儲 "縮表" 收回美元，收到新冠疫情前就差不多了，能再收下去嗎？看起來好像不行，總要鬆手一下，否則許多公司會撐不下去。
+
+wleemc 於 2022/06/21 13:46 回覆
+https://tinyurl.com/mr3kdjuh
+
+───────────────
+
+訪客 於 2022/06/21 13:03
+
+版主覺得是否要將台幣換成美元持有 感覺台幣不升息之後會貶
+
+─────────────
+
+可以換一些
+
+wleemc 於 2022/06/21 13:28 回覆
+https://tinyurl.com/2bnk6hdr
 
 ───────────────
 
