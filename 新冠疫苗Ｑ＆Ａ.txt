@@ -17873,6 +17873,29 @@ https://tinyurl.com/2syakwpt
 
 ───────────────
 
+leo12345 於 2022/06/22 06:03
+
+謝謝教授不吝指教，因為免疫學有些貓膩的地方，網路上幾乎找不到只有版上有XD
+1. b cell 成年後隨時可以因遇到未遇見的新抗原而可以回到骨髓進行重組基因產生較為專一的抗體，不過需三個月或六個月對吧？
+2. 網路上幾乎沒有提到T cell 基因重組發生在青春期這件事，可能是我搜尋中文的關係，不知道教授是否有文獻？
+3. 還是想知道T cell離開胸腺後，除了 t cell recepter的基因已決定, 是不是數量也是決定的像是treg cell?
+4.看完版上文章我才感覺免疫系統本來就設計好殺傷力強的T cell 在人體平時是不活化甚至是抑制的，疫苗違背了先天上的設計，不過一般人更相信提前活化的保護力:(
+
+─────────────
+
+1. B cell產生抗體可從現有的Naive B cell clones去挑選B cell-IgM與外來抗原(Ag)結合(B cell-IgM-Ag)而立刻活化產生IgM，然後經Class switch產生IgG。
+
+2. https://www2.nau.edu/~fpm/immunology/Exams/Tcelldevelopment-401.html
+
+3. T cell receptor基因重組產生Naive Th cell，經Dendritic cell對Naive Th cell做Antigen presentation，Naive Th cell活化並分化為Th1/Th2/Tfh/Treg。另外Th17/Th22也來自Naive Th cell。
+
+4. 你的感覺不完全正確。
+
+wleemc 於 2022/06/22 12:45 回覆
+https://tinyurl.com/2p8d8sjc
+
+───────────────
+
 訪客 於 2022/06/20 22:21
 
 請問版主預估這波美股崩盤會到什麼時候才回升
