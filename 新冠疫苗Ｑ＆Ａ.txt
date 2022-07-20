@@ -468,7 +468,7 @@ Darnell et al., Molecular Cell Biology
 Janeway, Immunobiology
 
 基礎神經學, 下列三本選讀一本
-Barr’s The Human Nervous System
+Barr's The Human Nervous System
 Noback, Human Nervous System
 Snell, Clinical Neuroanatomy for Medical Students
 
@@ -21795,6 +21795,219 @@ MODERNA(莫德纳)
 https://www.businesstoday.com.tw/article/category/183029/post/202207170017/
 
 ───────────────
+
+#194 訪客 於 2022/07/18 19:18
+
+https://moptt.tw/p/BabyMother.M.1658066576.A.FEF
+教授請問此案例有沒有可能是腦部PrLP aggregate?
+
+─────────────
+
+可能，但要確定母親有打新冠疫苗。
+
+wleemc 於 2022/07/18 19:37 回覆
+https://tinyurl.com/5y3zyutw
+
+───────────────
+
+訪客 於 2022/07/18 19:49
+
+那以後不是全完了嗎⋯幾乎全台灣的人都打了，沒打針的人接收到打完針的人的血液的機率很高啊🥹🥹🥹啊如果打過針的又接受了又打針的人的血⋯毒上加毒⋯⋯
+
+───────────────
+
+訪客 於 2022/07/18 19:53
+
+請問教授耐適恩應該是屬於NSAID系列藥品嗎？如果對NSAID系列有藥物過敏史的話是不是就無法使用N+E這個治療方法了？
+
+另外我看到您的回覆意思好像是說老人跟小孩使用N+E會比較有用？成人使用N+E是否作用不大？不知道有沒有理解錯誤？謝謝
+
+─────────────
+
+耐適恩不是NSAID。
+
+年輕成人吃N+E也有用，可幫助免疫系統把病毒攔截在咽喉，但老人及兒童幫助較大。N+E對天生完全沒有對抗某種病毒(如Omicron)的T cell的人無效，一旦染疫，必遭天擇淘汰，打疫苗完全沒用。
+
+wleemc 於 2022/07/18 23:54 回覆
+https://tinyurl.com/2p8f96se
+
+───────────────
+
+新手媽 於 2022/07/18 20:53
+
+教授好，我和兒子( 4個月大)都沒有打過疫苗，在6月同時染疫，現已康復。想請教您，我現在晚上睡覺還會偶爾喉嚨乾癢，是屬於長新冠後遺症嗎？還是因為體內仍有病毒量沒有清除的關係？服用N+E對緩解咳嗽有幫助嗎？
+另外兒子在確診期間，高燒至38度多，因爲他是G6PD寶寶所以沒給他吃Erythromycin/ Azithromycin，僅服用安佳熱居家照護，所幸燒退情形持續2天之後就恢復正常也沒有任何症狀。請問這樣是不是表示兒子本身的Anti-Omicron T cell已經活化了？未來在面對其他變異毒株是不是較有抵抗力呢？
+謝謝教授
+
+─────────────
+
+我無法回答你的問題。
+如果令郎天生就有Anti-Omicron T cell，自然會痊癒，其它想太多都沒用。
+
+wleemc 於 2022/07/18 23:57 回覆
+https://tinyurl.com/mryefs6j
+
+───────────────
+
+To#194 於 2022/07/18 20:53
+
+去年六、七月開放孕婦打M，婦產科醫學會也鼓勵孕婦打。在Dcrad上還有年輕孕婦以為打疫苗可以將抗體傳給胎兒，產前去打，讓胎兒生下來就有"免疫力"。這誤會大了。
+
+───────────────
+
+訪客 於 2022/07/18 22:41
+
+請問教授 濕疹用普特皮來壓制是否對身體不好 如教授說這是身體排蛋白質的方式 如用普特皮壓制住 那蛋白質要從哪邊排掉?
+
+─────────────
+
+外來抗原(Ag)若已被Mast cell-IgE-Ag帶到皮膚表層，即使有用類固醇藥膏，外來抗原仍然會隨死亡的皮膚細胞脫落。
+
+wleemc 於 2022/07/19 00:08 回覆
+https://tinyurl.com/37rb67tc
+
+───────────────
+
+訪客 於 2022/07/19 01:54
+
+請教版主，Mast cell會在組織間爬行，將外來抗原帶到皮膚表層？還是經由血液到皮膚表層？謝謝。
+
+─────────────
+
+Mast cell 在全身組織遊走，當Ig-E-Ag從微血管滲入組織，會被Mast cell胞膜上的Receptor抓到，然後慢慢爬行至皮膚、呼吸道及消化道上皮細胞排出。
+
+wleemc 於 2022/07/19 13:31 回覆
+https://tinyurl.com/3hywfuky
+
+───────────────
+
+訪客 於 2022/07/19 05:53
+
+教授您好
+上面留言中有看到您多次提到，這幾款新冠疫苗都會引發Prion-like protein aggregate，”打完人殘一半”。
+
+—請問”人殘一半”明確地說的話是指什麼狀況？
+
+—台灣官方數據打過疫苗的人數占總人口的80%以上，但街上的人卻都還很正常跟打疫苗前沒差別，可能的原因為何？
+
+—若真的這超過80%以上的人口將來都可能出現健康上的問題，為什麼政府還一直希望人民全都打針呢？這點說不通。 健康出問題導致生病，生病就無法工作，大量人口無勞動力會導致國家經濟出問題，而且還特別要求醫護人員打3～4針這點更令人想不通，以催針和人殘一半這點來說，無論怎麼看不都弊大於利？有點不合邏輯，請問教授您怎麼看。
+
+以上問題有點多，請多包涵，謝謝。
+
+─────────────
+
+二十歲打新冠疫苗，PrLP開始聚集，四十歲發病，這樣算，人已半殘。更悲慘的是五歲打疫苗，25歲發病。
+
+街上的人卻都還很正常跟打疫苗前沒差別，可能的原因為何？
+Ans：PrLP聚集，通常發生在50歲以後，器官經過二三十年累積Amyloid，七十歲以後發病，最常見的是巴金森氏症與阿茲海默症。
+
+為什麼政府還一直希望人民全都打針呢？
+Ans：因為無知。
+
+wleemc 於 2022/07/19 13:26 回覆
+https://tinyurl.com/ttev2myz
+
+───────────────
+
+#203 訪客 於 2022/07/19 08:06
+
+教授：我想請問，快篩測出來兩條線，一定是感染新冠嗎？有沒有可能是感染流感病毒？
+
+─────────────
+
+有症狀，快篩陽性，可能是其它病毒感染，包括普通冠狀病毒。
+wleemc 於 2022/07/19 13:18 回覆
+
+───────────────
+
+訪客 於 2022/07/19 11:53
+
+https://tw.news.yahoo.com/曝拜登-認知能力出問題-前白宮醫-恐無法做完任期-213024701.html
+曝拜登「認知能力出問題」 前白宮醫：恐無法做完任期
+這位打了4針
+
+───────────────
+
+aileenpeng 於 2022/07/19 12:32
+
+樓上新手媽，我跟小孩也都沒打疫苗，兩個月前也疑似中了，小孩兩天就沒事，我復元後容易累，後來去河濱慢跑之後就完全恢復正常了。現在完全沒有後遺症，分享給妳試試，先說我平日是有運動習慣的人。
+
+───────────────
+
+訪客 於 2022/07/19 14:50
+
+教授在#203的回覆，可能是其它病毒感染，包括普通冠狀病毒，那隔離都是愚民政策，隔心酸的！？
+
+───────────────
+
+訪客 於 2022/07/19 15:16
+
+COVID疫情開始前一年，比利時病毒學家指導各國專家、領袖如何操縱假疫情，使人民自願接種未完成實驗之疫苗 Virologist Teaches How to Make a Country Believe a Fake Pandemic
+https://rumble.com/v1ct6k3-covid-virologist-teaches-how-to-make-a-country-believe-a-fake-pandemic.html
+
+	請告知親友，拒打有害健康的實驗針
+
+	PCR檢測的原理: 各國政府是如何用PCR製造確診數據:
+	https://rumble.com/v107aed-pcr-pcr-pcr-deception.html
+
+	世衛組織與世界各國政府强制使用瑞德西韋治療COVID 是致死的主因 (器官衰竭) 增加中重症死亡數-疫苗恐懼行銷:
+	https://rumble.com/v112ek7-covid-.html
+
+	訪談 2009年阻止計畫性大規模疫情和強制疫苗的陰謀計畫 Jane Bürgermeister
+	https://rumble.com/v15e32z--2008-jane-brgermeister.html
+
+	探討疫情之下 網路流傳的法國經濟學家 Jacques Attali 所提出之<未來的生活>是否為真
+	https://rumble.com/v17upwz--jacques-attali-.html
+
+───────────────
+
+追憶似水年華 於 2022/07/19 16:37
+
+李教授您好：
+
+您在Jan 06 Thu 202發表的一篇文章「Spike Protein 真的會引發Prion Disease」中
+
+想請教您三個問題。
+
+(1) Huh 7 Cell lines (來自於liver tissue) 可以經由RNA editing 誘導Spike protein 產生致命的突變，所以可以說Huh 7 Cell lines 是屬於innate Immunity而不需要藉由CTL的幫助來清除病毒是嗎?
+
+(2) 亞洲人在感染新冠病毒或是接種疫苗時，比較不會罹患CJD但是卻會提高Alzheimer's disease/Parkinson's disease/Amyotrophic Lateral Sclerosis的原因為何?
+
+(3) 在清除病毒方面，是以innate immunity為主導，還是adaptive immunity 為主導呢?
+
+謝謝李教授撥冗回覆!
+
+─────────────
+
+1) 在實驗室中培養Huh-7 cell感染病毒，沒有任何免疫細胞參與。病毒進入Huh-7 cell後，細胞會分泌IL-1beta、IL-6、IL-8、IFN-alpha、IFN-beta等Cytokines，促使細胞產生Antiviral effects，包括RNA editing。
+
+2) 亞洲人CJD發生率本來就極低，台灣一年可能不到一例，多的話，一年兩例就很緊張了。接種新冠疫苗會使Alzheimer's disease/Parkinson's disease/Amyotrophic Lateral Sclerosis發生率增加，很多病例已在台灣發生了，原因是PrLP在腦神經細胞聚集成Amyloid。
+
+3) 若沒有Innate immunity，你會天天生病，無法存活。若沒有Adaptive immunity，你遲早會被致病細菌及病毒天擇淘汰，活不久。
+…………
+轉貼版上科學論述，不得使用版主姓名及工作地點。
+
+wleemc 於 2022/07/19 18:33 回覆
+https://tinyurl.com/2bhcrykb
+
+───────────────
+
+訪客 於 2022/07/19 21:17
+
+40多歲女 打滿3劑「睡夢中昏迷」死後確診。 
+https://news.tvbs.com.tw/life/1847756?utm_source=Yahoo&utm_medium=Yahoo_news&utm_campaign=newsid_1852142
+20多歲男 接種三劑疫苗 確診 罹「毛毛樣」病逝。 
+https://news.tvbs.com.tw/life/1852142
+
+───────────────
+
+
+
+
+
+
+
+
 
 
 
